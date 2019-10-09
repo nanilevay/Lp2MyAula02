@@ -1,0 +1,11 @@
+C:\Users\nani\source\repos\LP2Aula02\Tuples\obj\Debug\netcoreapp3.0\Tuples.csprojAssemblyReference.cache
+C:\Users\nani\source\repos\LP2Aula02\Tuples\obj\Debug\netcoreapp3.0\Tuples.AssemblyInfoInputs.cache
+C:\Users\nani\source\repos\LP2Aula02\Tuples\obj\Debug\netcoreapp3.0\Tuples.AssemblyInfo.cs
+C:\Users\nani\source\repos\LP2Aula02\Tuples\bin\Debug\netcoreapp3.0\Tuples.exe
+C:\Users\nani\source\repos\LP2Aula02\Tuples\bin\Debug\netcoreapp3.0\Tuples.deps.json
+C:\Users\nani\source\repos\LP2Aula02\Tuples\bin\Debug\netcoreapp3.0\Tuples.runtimeconfig.json
+C:\Users\nani\source\repos\LP2Aula02\Tuples\bin\Debug\netcoreapp3.0\Tuples.runtimeconfig.dev.json
+C:\Users\nani\source\repos\LP2Aula02\Tuples\bin\Debug\netcoreapp3.0\Tuples.dll
+C:\Users\nani\source\repos\LP2Aula02\Tuples\bin\Debug\netcoreapp3.0\Tuples.pdb
+C:\Users\nani\source\repos\LP2Aula02\Tuples\obj\Debug\netcoreapp3.0\Tuples.dll
+C:\Users\nani\source\repos\LP2Aula02\Tuples\obj\Debug\netcoreapp3.0\Tuples.pdb
